@@ -21,7 +21,7 @@ Next steps for this repository could include:
 
 ## License
 
-This repository is open-source software available under the [AGPL-3.0 License](https://github.com/rbaltrusch/calculator_app/blob/master/LICENSE).
+This repository is open-source software available under the [MIT License](https://github.com/rbaltrusch/calculator_app/blob/master/LICENSE).
 
 ## Contact
 
