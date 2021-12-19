@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+
 # Calculator Application
 
 A simple calculator application for Android, made in Java with Android Studio (Android 11.0 R, API 30).
